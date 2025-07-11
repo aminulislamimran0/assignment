@@ -36,6 +36,16 @@
     font-size: 16px;
     margin: 37px 365px;
 }
+.third-btn{
+    background-color: #4E47FF;
+    color: white;
+    gap: 10px;
+    border-radius: 10px;
+    width: 229px; height: 48px;
+    padding: 12px 36px;
+    font-size: 16px;
+    
+}
 
 /* div styles */
 .first{
@@ -50,4 +60,31 @@
     width: 905px; height: 237px;
     padding: 267.5px 309px 152px;
     max-width: 905px;
+}
+/* header image style */
+
+
+
+/* main style */
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px; height: 328px;
+    padding: 116px 159px 116px 141px;
+    max-width: 1140px;
+}
+
+.para-one{
+    font-size: 24px;
+    width: 517px; height: 60px;
+    color: #252432;
+}
+.one{
+    font-size: 42px;
+}
+
+.image{
+    width: 403px; height: 328px;
+    border-radius: 48px;
+    margin-left: 600px;
 }
