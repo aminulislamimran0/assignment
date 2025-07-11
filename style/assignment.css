@@ -15,6 +15,10 @@
 .logo{
     color: #4E47FF;
     font-size: 34px;
+    width: 132px; height: 48px;
+    padding: 12px 36px;
+    gap: 10px;
+    margin: 0px;
 }
 /* button styles */
 .btn{
